@@ -1,3 +1,5 @@
-module github.com/gorilla/mux
+module github.com/gorilla/mux 
 
-go 1.12
+go 1.19
+
+require github.com/gorilla/mux v1.8.0
